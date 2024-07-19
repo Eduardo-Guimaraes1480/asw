@@ -1,0 +1,17 @@
+@media only screen and (max-width: 767px) {
+header img{
+    height: 17dvh;
+    margin-left: 4.5dvh;
+}
+header{
+    height: 40dvh;
+    background: var(--blackback);
+    display: flex;
+    align-items: center;
+    color: var(--text);
+    gap: 4dvh;
+}
+h1{
+    font-size: 4dvh;
+}
+  }
