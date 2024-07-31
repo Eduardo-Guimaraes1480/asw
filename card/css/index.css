@@ -23,7 +23,6 @@ header {
     align-items: center;
     color: var(--text);
     gap: 10dvh;
-    border-bottom: var(--navback) solid .5dvh;
 }
 
 main {
@@ -35,7 +34,6 @@ main {
     align-items: center;
     padding: 9dvh 0dvh 5dvh 0dvh;
     transition: all .5s;
-    border-bottom: var(--navback) solid .5dvh;
 }
 
 main>.links,
